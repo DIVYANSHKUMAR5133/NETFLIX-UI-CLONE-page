@@ -32,4 +32,4 @@ This project mimics the front-end UI of Netflix with custom styling and interact
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/<your-username>/netflix-clone.git
+   git clone https://github.com/DIVYANSHKUMAR5133/NETFLIX-UI-CLONE-page.git
