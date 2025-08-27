@@ -17,7 +17,7 @@ This project mimics the front-end UI of Netflix with custom styling and interact
 ## 📸 Screenshots  
 (Add your screenshots here, example:)  
 
-![Netflix Clone Screenshot](https://raw.githubusercontent.com/<your-username>/<repo>/main/screenshots/netflix-clone.png)  
+![Netflix Clone Screenshot](https://i.postimg.cc/P5gR1XCC/Screenshot-2025-08-27-222753.png)  
 
 ---
 
